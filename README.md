@@ -33,4 +33,4 @@ The zones above map out as follows:
 
 Problem and Solution history: PLACEHOLDER
 
-VLAN Scheme: [VLAN Schema](@/VLAN_Schema.md)
+VLAN Scheme: [VLAN Schema](VLAN_Schema.md)
