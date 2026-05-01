@@ -31,6 +31,6 @@ The zones above map out as follows:
 
 ## Additional Information
 
-Problem and Solution history: [placeholder]
+Problem and Solution history: PLACEHOLDER
 
-VLAN Scheme: [placeholder]
+VLAN Scheme: [VLAN Schema](@/VLAN_Schema.md)
